@@ -1,0 +1,11 @@
+C:\API\mentoringprogramws\TestDropboxApi\bin\Debug\TestDropboxApi.dll.config
+C:\API\mentoringprogramws\TestDropboxApi\bin\Debug\TestDropboxApi.dll
+C:\API\mentoringprogramws\TestDropboxApi\bin\Debug\TestDropboxApi.pdb
+C:\API\mentoringprogramws\TestDropboxApi\bin\Debug\Newtonsoft.Json.dll
+C:\API\mentoringprogramws\TestDropboxApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\API\mentoringprogramws\TestDropboxApi\bin\Debug\TechTalk.SpecFlow.dll
+C:\API\mentoringprogramws\TestDropboxApi\bin\Debug\Newtonsoft.Json.xml
+C:\API\mentoringprogramws\TestDropboxApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\API\mentoringprogramws\TestDropboxApi\obj\Debug\Dropbox.Api.Tests.Infrastructure.csprojResolveAssemblyReference.cache
+C:\API\mentoringprogramws\TestDropboxApi\obj\Debug\TestDropboxApi.dll
+C:\API\mentoringprogramws\TestDropboxApi\obj\Debug\TestDropboxApi.pdb
