@@ -1,4 +1,2 @@
-This project is a test project for .Net Mentoring Program Q1 2017
-
-Here you'll find an example for WebServices testing infrastructure. 
-As an test WS was chosen dropbox open API
+This is a bacis structure of a API testing framework based on HttpRequest
+Just a structure and a 4 specflow tests which work ;-)
